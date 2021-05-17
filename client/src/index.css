@@ -70,3 +70,8 @@ body {
   padding: 5px 10px;
   background-color: lightskyblue;
 }
+
+div.saved-list a.active {
+    border: 1px solid grey;
+    background-color: #f2f2f2;
+}
