@@ -59,12 +59,12 @@ If you have completed Parts 1 & 2 feel free to move on to these stretch goals.
 
 #### Turn your Saved Movie list into `Link`s
 
-* [ ] Your list of saved movies should be links to the movie itself. Study and understand what the `saveMovie` function is doing.
+* [x] Your list of saved movies should be links to the movie itself. Study and understand what the `saveMovie` function is doing.
 
 #### Turn your Saved Movie `Link`s into `NavLink`s
 
-* [ ] Navlink
+* [x] Navlink
 
 ## Submission Format
 
-* [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's  Repo). **Please don't merge your own pull request**
+* [x] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's  Repo). **Please don't merge your own pull request**
